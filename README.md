@@ -14,14 +14,14 @@ In my free time, I enjoy cycling and creating content for my YouTube channel, wh
   <a href="https://www.youtube.com/bruno_russi?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/bruno_russi?sub_confirmation=1" target="_blank">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCI_VM61NCdzOCyTAZuaie5w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCI_VM61NCdzOCyTAZuaie5w?label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&color=2d2a3e&labelColor=60517c"/></a>
   <a href="https://www.youtube.com/bruno_russi?sub_confirmation=1" target="_blank">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCI_VM61NCdzOCyTAZuaie5w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCI_VM61NCdzOCyTAZuaie5w?logo=video&logoColor=white&style=for-the-badge&color=2d2a3e&labelColor=60517c"/></a> 
 </p>
 
 
-<details> 
-    <summary>📺 Latest YouTube Videos</summary>
+<details>
+    <summary><h3>📺 Latest YouTube Videos</h3></summary>
   
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Utilizando o pre-commit com seu módulo terraform](https://ytcards.demolab.com/?id=uKZ-sOX1luI&title=Utilizando+o+pre-commit+com+seu+m%C3%B3dulo+terraform&lang=en&timestamp=1712178490&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Utilizando o pre-commit com seu módulo terraform")](https://www.youtube.com/watch?v=uKZ-sOX1luI)
