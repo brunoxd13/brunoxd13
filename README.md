@@ -19,3 +19,10 @@ In my free time, I enjoy cycling and creating content for my YouTube channel, wh
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCI_VM61NCdzOCyTAZuaie5w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 </p>
 
+
+<details> 
+    <summary>📺 Latest YouTube Videos</summary>
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+</details>
