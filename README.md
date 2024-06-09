@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=60517c&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+GitHub;My+name+is+Bruno+Russi;I'm+a+DevOps+engineer" alt="Typing SVG" /></a>
 
-Hello, my name is **Bruno Russi**. I am a **DevOps Engineer** with 10 years of experience in the tech industry. During my career, I have also worked as a **Software Engineer**, using technologies like JavaScript, Python, and Golang. 
+Hello, my name is **Bruno Russi**. I am a **DevOps Engineer** with over 10 years of experience in the tech industry. During my career, I have also worked as a **Software Engineer**, using technologies like JavaScript, Python, and Golang. 
 
 Currently, my focus is on **cloud computing and infrastructure as code**. I have extensive experience with tools like Terraform, Terragrunt, AWS CDK, and Kubernetes to create **scalable and resilient cloud environments**.
 
