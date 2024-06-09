@@ -21,7 +21,7 @@ In my free time, I enjoy cycling and creating content for my YouTube channel, wh
 
 
 <details>
-    <summary><h3>📺 Latest YouTube Videos</h3></summary>
+    <summary><b>📺 Latest YouTube Videos</b></summary><br/>
   
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Utilizando o pre-commit com seu módulo terraform](https://ytcards.demolab.com/?id=uKZ-sOX1luI&title=Utilizando+o+pre-commit+com+seu+m%C3%B3dulo+terraform&lang=en&timestamp=1712178490&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Utilizando o pre-commit com seu módulo terraform")](https://www.youtube.com/watch?v=uKZ-sOX1luI)
