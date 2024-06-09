@@ -22,6 +22,7 @@ In my free time, I enjoy cycling and creating content for my YouTube channel, wh
 
 <details> 
     <summary>📺 Latest YouTube Videos</summary>
+  
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Utilizando o pre-commit com seu módulo terraform](https://ytcards.demolab.com/?id=uKZ-sOX1luI&title=Utilizando+o+pre-commit+com+seu+m%C3%B3dulo+terraform&lang=en&timestamp=1712178490&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Utilizando o pre-commit com seu módulo terraform")](https://www.youtube.com/watch?v=uKZ-sOX1luI)
 [![Gerando releases automáticas para módulos Terraform com o Semantic Release](https://ytcards.demolab.com/?id=joCBnkNc8mY&title=Gerando+releases+autom%C3%A1ticas+para+m%C3%B3dulos+Terraform+com+o+Semantic+Release&lang=en&timestamp=1711551642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gerando releases automáticas para módulos Terraform com o Semantic Release")](https://www.youtube.com/watch?v=joCBnkNc8mY)
@@ -30,4 +31,5 @@ In my free time, I enjoy cycling and creating content for my YouTube channel, wh
 [![AWS Cloud Formation com sincronização no Git](https://ytcards.demolab.com/?id=0fOChO6djxU&title=AWS+Cloud+Formation+com+sincroniza%C3%A7%C3%A3o+no+Git&lang=en&timestamp=1706705134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AWS Cloud Formation com sincronização no Git")](https://www.youtube.com/watch?v=0fOChO6djxU)
 [![IaC de maneira fácil e visual com AWS Application Composer](https://ytcards.demolab.com/?id=qnEt3C_bk5U&title=IaC+de+maneira+f%C3%A1cil+e+visual+com+AWS+Application+Composer&lang=en&timestamp=1705759561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IaC de maneira fácil e visual com AWS Application Composer")](https://www.youtube.com/watch?v=qnEt3C_bk5U)
 <!-- END YOUTUBE-CARDS -->
+
 </details>
